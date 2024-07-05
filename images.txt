@@ -1,1 +1,1 @@
-centos
+index.docker.io/appsmith/appsmith-ee
