@@ -1,1 +1,1 @@
-index.docker.io/appsmith/appsmith-ee
+index.docker.io/appsmith/appsmith-ce
