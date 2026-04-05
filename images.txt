@@ -1,1 +1,1 @@
-pgvector/pgvector
+fatedier/frps:v0.67.0
