@@ -1,1 +1,1 @@
-fatedier/frps:v0.67.0
+fatedier/frpc:v0.68.0
